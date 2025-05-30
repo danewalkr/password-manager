@@ -15,7 +15,7 @@ A simple, beginner-friendly password manager application built with Python. Feat
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/danewalkre/password-manager-app.git
+   git clone https://github.com/danewalkre/password-manager.git
    cd password-manager-app
    ```
 
